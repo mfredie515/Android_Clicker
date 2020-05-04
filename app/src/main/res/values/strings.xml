@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Clicker Game</string>
+    <string name="btnAuto">Enable AutoClick</string>
+    <string name="btnSpeed">AC Clicks</string>
+    <string name="btnPoint">AC Points</string>
+    <string name="btnClick">Click</string>
+</resources>
